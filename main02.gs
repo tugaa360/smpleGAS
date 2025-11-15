@@ -8,6 +8,7 @@
  * - カレンダー検索の効率化
  * - バッチ更新によるシート書き込み最適化
  * - より詳細なエラーハンドリング
+(C)tugaa All rights reserved. 
  ***********************************************************/
 
 const API_URL = "https://point-site-research.com/api/creditcard_ranking.json";
