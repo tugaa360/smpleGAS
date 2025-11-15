@@ -12,6 +12,7 @@
  * - 解約推奨日のカレンダー登録（重複防止）
  * - メール通知（重複防止）
  * - トリガー自動設定
+(C)tugaa All rights reserved. 
  ***********************************************************/
 
 const API_URL = "https://raw.githubusercontent.com/andenacitelli/credit-card-bonuses-api/main/exports/data.json";
