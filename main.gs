@@ -10,6 +10,7 @@
  * - メール通知（重複防止、冗長化）
  * - トリガー自動設定（ランキング更新とメール通知を毎朝実行）
  * - エラー通知の実装
+(C)tugaa All rights reserved. 
  ***********************************************************/
 
 const API_URL = "https://point-site-research.com/api/creditcard_ranking.json";
